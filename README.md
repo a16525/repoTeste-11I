@@ -1,3 +1,3 @@
 # repoTeste-11I
 
-Primeiro repositório no GitHub
+Primeiro repositório criado no GitHub
